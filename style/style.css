@@ -1,0 +1,39 @@
+td, th{
+
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input_group{
+    margin: 20px 0px;
+}
+
+svg{
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div{
+    height:200px;
+    width:250px;
+}
+
+.Title{
+    color: #147799;
+    text-align: center;
+    font-size:40px;
+    margin-top: 5%;
+    margin-bottom: 5%; 
+}
+
+.input-group{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+
+
+
+
+
+
